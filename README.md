@@ -1,6 +1,7 @@
 ## Fundamentals of Machine Learning
 
-The customer is an insurance company that has provided health insurance to its customers, now they need help to build a predictive model that can predict whether past year's policyholders might be interested in purchasing an insurance for their vehicle as well.
+The customer is an insurance company that has provided health insurance to its customers.
+The company would like to know how many customers would accept to purchase a vehicle insurance.
 
 The dataset consists of the following properties:
 
@@ -18,4 +19,6 @@ The dataset consists of the following properties:
 - Response: 1 if the buyer has responded positively to the sales proposal, 0 otherwise.
 
 
-sdad
+The goal of this project is the following:
+
+_Predict the value of Response providing the insurance company with a predictive model that can predict whether past year's policyholders might be interested in purchasing an insurance for their vehicle as well.
