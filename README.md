@@ -16,3 +16,6 @@ The dataset consists of the following properties:
 - Policy_Sales_Channel: anonymized code of the channel used for the proposal (e.g. by email, by phone, in person, etc ...);
 - Vintage: number of days from which the user is a customer of the company;
 - Response: 1 if the buyer has responded positively to the sales proposal, 0 otherwise.
+
+
+sdad
