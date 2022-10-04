@@ -21,4 +21,4 @@ The dataset consists of the following properties:
 
 The goal of this project is the following:
 
-_Predict the value of Response providing the insurance company with a predictive model that can predict whether past year's policyholders might be interested in purchasing an insurance for their vehicle as well.
+_Predict the value of Response providing the insurance company with a predictive model that can predict whether past year's policyholders might be interested in purchasing an insurance for their vehicle as well._
