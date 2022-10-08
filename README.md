@@ -1,6 +1,6 @@
 ## Fundamentals of Machine Learning
 
-Project reviewable on my Kaggle too: [Health Insurance Project](https://www.kaggle.com/code/daniloortelli/health-insurance-project)
+Original project on my Kaggle: [Health Insurance Project](https://www.kaggle.com/code/daniloortelli/health-insurance-project)
 
 The customer is an insurance company that has provided health insurance to its customers.
 The company would like to know how many customers would accept to purchase a vehicle insurance.
