@@ -1,4 +1,4 @@
-## Fundamentals of Machine Learning
+## Prediction of Cross-sell Opportunities for Insurance Policies
 
 Original project on my Kaggle: [Health Insurance Project](https://www.kaggle.com/code/daniloortelli/health-insurance-project)
 
